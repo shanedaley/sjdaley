@@ -21,6 +21,7 @@ I’m a creative technologist and full‑stack engineer with a long history of b
 ---
 
 ## 🧪 Featured Projects
+Check out my latest project: [Migzi.ai — WebGPU 3D Document Platform](https://github.com/shanedaley/Migzi)
 
 ### Migzi.ai — WebGPU 3D Platform
 A next‑generation browser‑based 3D environment allowing users to import PDFs and PowerPoints into immersive spaces.  

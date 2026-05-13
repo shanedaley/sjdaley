@@ -55,8 +55,11 @@ React • Angular • Three.js • Unity3D • WebGPU • WebGL • Node.js • 
 
 ---
 
-## 🌐 Links
+## 🌐 Recent Projects I've created
 - **Portfolio:** https://sdaley.com  
 - **LinkedIn:** https://linkedin.com/in/shanejdaley  
-- **Project:** https://migzi.ai  
+- **Migzi:** https://migzi.ai
+- **Forever Young VR:** https://foreveryoungvr.com
+- **Coastalcrystals** https://coastalcrystals.co
+- **Coast to Coast Fitness:** https://coasttocoastfitness.co     
 

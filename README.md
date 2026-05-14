@@ -20,9 +20,20 @@ I’m a creative technologist and full‑stack engineer with a long history of b
 
 ---
 
+
 ## 🧪 Featured Projects
 
-[![Migzi.ai](https://img.shields.io/badge/Migzi.ai-WebGPU%20Platform-blue?style=for-the-badge)](https://github.com/shanedaley/Migzi)
+[![Migzi.ai](https://img.shields.io/badge/Migzi.ai-WebGPU%203D%20Platform-blue?style=for-the-badge)](https://github.com/shanedaley/Migzi)
+
+[![Forever Young VR](https://img.shields.io/badge/Forever%20Young%20VR-Meta%20Quest%20VR-purple?style=for-the-badge)](https://foreveryoungvr.com)
+
+[![Coastal Crystals](https://img.shields.io/badge/Coastal%20Crystals-Ecommerce%20Platform-teal?style=for-the-badge)](https://coastalcrystals.co)
+
+[![Coast to Coast Fitness](https://img.shields.io/badge/Coast%20to%20Coast%20Fitness-Fitness%20Platform-orange?style=for-the-badge)](http://coasttocoastfitness.com)
+
+[![Shane Daley](https://img.shields.io/badge/Shane%20Daley-Portfolio%20Website-black?style=for-the-badge)](https://sdaley.com)
+
+---
 
 ### Migzi.ai — WebGPU 3D Platform
 A next‑generation browser‑based 3D environment allowing users to import PDFs and PowerPoints into immersive spaces.  

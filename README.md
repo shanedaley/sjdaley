@@ -23,16 +23,25 @@ I’m a creative technologist and full‑stack engineer with a long history of b
 
 ## 🧪 Featured Projects
 
-[![Migzi.ai](https://img.shields.io/badge/Migzi.ai-WebGPU%203D%20Platform-blue?style=for-the-badge)](https://github.com/shanedaley/Migzi)
+<a href="https://github.com/shanedaley/Migzi" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Migzi.ai-WebGPU%203D%20Platform-blue?style=for-the-badge" />
+</a>
 
-[![Forever Young VR](https://img.shields.io/badge/Forever%20Young%20VR-Meta%20Quest%20VR-purple?style=for-the-badge)](https://foreveryoungvr.com)
+<a href="https://foreveryoungvr.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Forever%20Young%20VR-Meta%20Quest%20VR-purple?style=for-the-badge" />
+</a>
 
-[![Coastal Crystals](https://img.shields.io/badge/Coastal%20Crystals-Ecommerce%20Platform-teal?style=for-the-badge)](https://coastalcrystals.co)
+<a href="https://coastalcrystals.co" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Coastal%20Crystals-Ecommerce%20Platform-teal?style=for-the-badge" />
+</a>
 
-[![Coast to Coast Fitness](https://img.shields.io/badge/Coast%20to%20Coast%20Fitness-Fitness%20Platform-orange?style=for-the-badge)](http://coasttocoastfitness.com)
+<a href="http://coasttocoastfitness.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Coast%20to%20Coast%20Fitness-Fitness%20Platform-orange?style=for-the-badge" />
+</a>
 
-[![Shane Daley](https://img.shields.io/badge/Shane%20Daley-Portfolio%20Website-black?style=for-the-badge)](https://sdaley.com)
-
+<a href="https://sdaley.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Shane%20Daley-Portfolio%20Website-black?style=for-the-badge" />
+</a>
 ---
 
 ### Migzi.ai — WebGPU 3D Platform

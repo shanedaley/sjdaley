@@ -26,25 +26,25 @@ I’m a creative technologist and full‑stack engineer with a long history of b
   <img src="https://img.shields.io/badge/Migzi.ai-WebGPU%203D%20Platform-blue?style=for-the-badge" />
 </a>
 
-<br><br>
+<br>
 
 <a href="https://foreveryoungvr.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Forever%20Young%20VR-Meta%20Quest%20VR-purple?style=for-the-badge" />
 </a>
 
-<br><br>
+<br>
 
 <a href="https://coastalcrystals.co" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Coastal%20Crystals-Ecommerce%20Platform-teal?style=for-the-badge" />
 </a>
 
-<br><br>
+<br>
 
 <a href="http://coasttocoastfitness.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Coast%20to%20Coast%20Fitness-Fitness%20Platform-orange?style=for-the-badge" />
 </a>
 
-<br><br>
+<br>
 
 <a href="https://sdaley.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Shane%20Daley-Portfolio%20Website-black?style=for-the-badge" />

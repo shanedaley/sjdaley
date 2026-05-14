@@ -1,5 +1,5 @@
 # Shane Daley  
-### Creative Technologist • Software Engineer • VR/3D Developer  
+### Creative Technologist • Senior Software Engineer • VR/3D Developer  
 Sydney, Australia  
 
 ---

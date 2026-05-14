@@ -61,5 +61,5 @@ React • Angular • Three.js • Unity3D • WebGPU • WebGL • Node.js • 
 - **Migzi:** https://migzi.ai
 - **Forever Young VR:** https://foreveryoungvr.com
 - **Coastalcrystals** https://coastalcrystals.co
-- **Coast to Coast Fitness:** https://coasttocoastfitness.co     
+- **Coast to Coast Fitness:** https://coasttocoastfitness.com     
 

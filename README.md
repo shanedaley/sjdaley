@@ -77,9 +77,16 @@ Building next-generation immersive platforms using **WebGPU**, **Three.js**, **R
 
 <br>
 
+<a href="https://www.meta.com/en-gb/experiences/cave-runners/9491519824202561/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Meta%20Quest%20VR%20Game-Cave%20Runners-green?style=for-the-badge" />
+</a>
+
+<br>
+
 <a href="https://sdaley.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Shane%20Daley-Portfolio%20Website-black?style=for-the-badge" />
 </a>
+
 
 ---
 

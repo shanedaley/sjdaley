@@ -55,7 +55,7 @@ Building next-generation immersive platforms using **WebGPU**, **Three.js**, **R
 
 <a href="https://github.com/shanedaley/Migzi" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Migzi.ai-WebGPU%203D%20Platform-blue?style=for-the-badge" />
-</a>— immersive document and presentation environments powered by WebGPU 
+</a>
 
 <br>
 

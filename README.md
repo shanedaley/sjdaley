@@ -1,22 +1,53 @@
 # Shane Daley  
-### Creative Technologist • Senior Software Engineer • VR/3D Developer  
-Sydney, Australia  
+**Senior Creative Technologist • WebGPU & XR Architect • Full‑Stack Realtime 3D Engineer**  
+📍 Sydney, Australia (Remote APAC / US)  
+✉️ shane@sdaley.com │ ☎️ 0402 456 100  
+🔗 [https://github.com/shanedaley](https://github.com/shanedaley)
 
 ---
 
-## 👋 About Me
-I’m a creative technologist and full‑stack engineer with a long history of building interactive digital experiences across web, 3D, and immersive technologies. I’ve delivered enterprise platforms, VR/AR systems, large‑scale intranet tools, and commercial VR titles — always with a focus on performance, usability, and innovation.
+## 👋 About
 
-> “Senior Game Developer & Creative Technologist with 15+ years of experience delivering immersive VR/AR, 3D, and full‑stack digital platforms.”
+Australian-based Senior Software Engineer and Creative Technologist with **15+ years** of experience building immersive digital products across **Web, XR, VR, and realtime 3D** platforms.  
+Combines deep engineering capability with product-focused creative technology, spanning **enterprise systems**, **browser-based 3D platforms**, **AI-integrated experiences**, and **commercial VR development**.
+
+Delivered immersive platforms and interactive systems for:  
+**Optus, Westpac Group, Jaguar Land Rover, TabCorp, BT Super, Schweppes, Hungry Jack’s**, and independently published VR titles on the **Meta Quest Store**.
 
 ---
 
-## 🚀 Core Skills
-- **Frontend Development** — React, Angular, TypeScript, HTML5, CSS3  
-- **Backend Engineering** — Node.js, PHP, SQL, AWS  
-- **3D & XR Development** — Unity3D, Three.js, WebGL, WebGPU, Meta Quest  
-- **Creative Technology** — Real‑time rendering, prototyping, immersive UX  
-- **Programming** — Python, C++, Java  
+## 🛠️ Specialisations
+
+- WebGPU & realtime browser rendering  
+- Three.js & immersive web platforms  
+- VR / AR / XR systems  
+- Full stack JavaScript architecture  
+- React / Node.js ecosystems  
+- Spatial computing & interactive visualisation  
+- AI-enhanced user experiences  
+- Enterprise innovation & prototyping  
+
+---
+
+## 🚀 Current Focus
+
+Building next-generation immersive platforms using **WebGPU**, **Three.js**, **React**, **Node.js**, and **custom rendering pipelines**.
+
+### Creator of
+
+- **Migzi.ai** — immersive document and presentation environments powered by WebGPU  
+- **Multiple commercial VR titles published on Meta Quest**  
+  - Cave Runners  
+  - Jungle Runners  
+  - The Tea Party  
+- **Forever Young VR** — Virtual Reality targeted for aged care  
+  - https://foreveryoungvr.com  
+- **Coast to Coast Fitness** — realtime fitness tracker with exercise body motion tracking  
+  - https://coasttocoastfitness.com  
+- **Coastal Crystals** — e-commerce website selling various natural crystals  
+  - https://coastalcrystals.co  
+- **Personal Website** — reflecting my love for the ocean and old ships  
+  - https://sdaley.com  
 
 ---
 
@@ -50,42 +81,39 @@ I’m a creative technologist and full‑stack engineer with a long history of b
   <img src="https://img.shields.io/badge/Shane%20Daley-Portfolio%20Website-black?style=for-the-badge" />
 </a>
 
-### Migzi.ai — WebGPU 3D Platform
-A next‑generation browser‑based 3D environment allowing users to import PDFs and PowerPoints into immersive spaces.  
-Built solo using Three.js, React, Node, SQL, and custom rendering pipelines.
-
-### Meta Quest VR Titles
-Shipped three VR games on the Meta Quest Store.  
-Designed gameplay, built assets, coded mechanics, and handled publishing end‑to‑end.
-
----
-
-## 🏢 Professional Experience
-
-### Creative Technologist — Optus HQ (2015–2024)
-- Delivered Optus’ first AR experience for interactive 3D devices  
-- Built the first VR experience launched by an Australian telco  
-- Developed a fully immersive 3D intranet training platform  
-- Led innovation initiatives combining 3D, VR, and web technologies  
-
-### Full Stack Developer — Saatchi & Saatchi, Westpac Group, Spark44 JLR (2009–2014)
-- Built the back‑end operating system for Jaguar Land Rover  
-- Developed a 3D experience platform for Schweppes  
-- Delivered secure contest systems for Hungry Jacks  
-- Produced VR and 3D animation work for Westpac and TabCorp  
-
 ---
 
 ## 🧰 Tech Stack
-React • Angular • Three.js • Unity3D • WebGPU • WebGL • Node.js • PHP • SQL • AWS • Python • C++ • Java • Blender • Git
+
+**React • Three.js • WebGPU • WebGL • Unity3D • Node.js • TypeScript • JavaScript • SQL • AWS • Python • C++ • Blender**
 
 ---
 
-## 🌐 Recent Projects I've created
-- **Portfolio:** https://sdaley.com  
-- **LinkedIn:** https://linkedin.com/in/shanejdaley  
-- **Migzi:** https://migzi.ai
-- **Forever Young VR:** https://foreveryoungvr.com
-- **Coastalcrystals** https://coastalcrystals.co
-- **Coast to Coast Fitness:** https://coasttocoastfitness.com     
+## 💡 What I Bring
 
+- Lead products from **concept → production** independently  
+- Strong balance of **technical architecture** & **UX thinking**  
+- Enterprise-scale interactive system delivery  
+- Deep realtime graphics & immersive tech understanding  
+- Proven performance across **startups, agencies, and enterprise**  
+
+---
+
+## 🏡 Set-up for Remote Work
+
+I have a **dedicated studio apartment** adjacent to my home, giving me a quiet, distraction-free environment that allows me to focus and be consistently productive.
+
+I have built my own **custom-spec computer** featuring a high-performance processor and a powerful graphics card, allowing me to run complex builds, virtual machines, and resource-intensive AI tools without interruption. This setup, combined with a fully isolated workspace, enables a **reliable, efficient, and professional** remote working environment.
+
+---
+
+## 🌏 Open To
+
+Remote opportunities with:
+
+- AI startups  
+- Spatial computing companies  
+- XR / immersive technology teams  
+- Realtime graphics platforms  
+- Innovative product engineering groups  
+- US & Singapore-based remote companies  

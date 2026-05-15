@@ -33,53 +33,43 @@ Delivered immersive platforms and interactive systems for:
 
 Building next-generation immersive platforms using **WebGPU**, **Three.js**, **React**, **Node.js**, and **custom rendering pipelines**.
 
-### Creator of
-
-- **Migzi.ai** — immersive document and presentation environments powered by WebGPU  
-- **Multiple commercial VR titles published on Meta Quest**  
-  - Cave Runners  
-  - Jungle Runners  
-  - The Tea Party  
-- **Forever Young VR** — Virtual Reality targeted for aged care  
-  - https://foreveryoungvr.com  
-- **Coast to Coast Fitness** — realtime fitness tracker with exercise body motion tracking  
-  - https://coasttocoastfitness.com  
-- **Coastal Crystals** — e-commerce website selling various natural crystals  
-  - https://coastalcrystals.co  
-- **Personal Website** — reflecting my love for the ocean and old ships  
-  - https://sdaley.com  
-
----
-
 ## 🧪 Featured Projects
-
+- **Migzi.ai** — immersive document and presentation environments powered by WebGPU 
 <a href="https://github.com/shanedaley/Migzi" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Migzi.ai-WebGPU%203D%20Platform-blue?style=for-the-badge" />
 </a>
 
 <br>
-
+- **Forever Young VR** — Virtual Reality targeted for aged care  
+  - https://foreveryoungvr.com  
 <a href="https://foreveryoungvr.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Forever%20Young%20VR-Meta%20Quest%20VR-purple?style=for-the-badge" />
 </a>
 
 <br>
-
+- **Coastal Crystals** — e-commerce website selling various natural crystals  
+  - https://coastalcrystals.co  
 <a href="https://coastalcrystals.co" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Coastal%20Crystals-Ecommerce%20Platform-teal?style=for-the-badge" />
 </a>
 
 <br>
-
+- **Coast to Coast Fitness** — realtime fitness tracker with exercise body motion tracking  
+  - https://coasttocoastfitness.com  
 <a href="http://coasttocoastfitness.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Coast%20to%20Coast%20Fitness-Fitness%20Platform-orange?style=for-the-badge" />
 </a>
 
 <br>
-
+- **Personal Website** — reflecting my love for the ocean and old ships  
+  - https://sdaley.com  
 <a href="https://sdaley.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Shane%20Daley-Portfolio%20Website-black?style=for-the-badge" />
 </a>
+- **Multiple commercial VR titles published on Meta Quest**  
+  - Cave Runners  
+  - Jungle Runners  
+  - The Tea Party 
 
 ---
 
